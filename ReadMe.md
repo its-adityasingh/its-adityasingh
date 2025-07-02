@@ -34,9 +34,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=its-adityasingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=its-adityasingh&theme=github-dark&hide_border=true&stroke=DDDDDD&ring=BA68C8&fire=AB47BC&currStreakNum=CE93D8&sideNums=E1BEE7&currStreakLabel=E1BEE7&sideLabels=CE93D8&dates=B39DDB&background=00000000" 
+  alt="GitHub Streak"
+/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=dark&no-frame=false&no-bg=true&margin-w=4)
@@ -57,4 +62,3 @@
 </div>
 
 ---
-
