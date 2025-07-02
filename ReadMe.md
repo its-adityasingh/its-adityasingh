@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona waving hello"/>
+</p>
+
 # 💫 About Me:
 🛠 I’m currently working on: Crafting digital products using frontend tech, Python, and a design-first approach.<br>
 🤝 I’m looking to collaborate on: AI, IoT, and frontend projects with real-world impact.<br>
@@ -39,12 +43,18 @@
 
 ## ✍️ Random Dev Quote & 🔝 Top Contributed Repo
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" width="300"/>
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=its-adityasingh&limit=1&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="350"/>
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="300" alt="Dev Quote"/>
+
+  <!-- Mona GIF -->
+  <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona waving hello"/>
+
+  <!-- Top Contributed Repo -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=its-adityasingh&limit=1&theme=dark&combine_all_yearly_contributions=true" width="350" alt="Top Contributed Repo"/>
 
 </div>
 
 ---
+
