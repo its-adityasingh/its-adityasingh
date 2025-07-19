@@ -10,10 +10,15 @@
 💬 Ask me about: UI/UX, hackathons, and student-led tech communities.<br>
 ⚡ Fun fact: I’ve led national and international hackathons and love merging tech with creativity!
 
+## 📈 Custom Contribution Graph:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/contribution-graph.png" width="700" alt="Contribution Graph"/>
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/k_aditya_singh/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsadityasingh/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh28012007@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditysingh28012007@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -60,5 +65,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=its-adityasingh&limit=1&theme=dark&combine_all_yearly_contributions=true" width="350" alt="Top Contributed Repo"/>
 
 </div>
-
----
