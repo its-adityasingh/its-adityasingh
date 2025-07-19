@@ -1,26 +1,29 @@
-<p align="center">
-  <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona waving hello"/>
-</p>
+### Hi, I'm Aditya 👋
+---
 
-# 💫 About Me:
-🛠 I’m currently working on: Crafting digital products using frontend tech, Python, and a design-first approach.<br>
-🤝 I’m looking to collaborate on: AI, IoT, and frontend projects with real-world impact.<br>
-🧠 I’m looking for help with: Backend integration and real-time API deployments.<br>
-🌱 I’m currently learning: Advanced JavaScript, React, and AI model integration.<br>
-💬 Ask me about: UI/UX, hackathons, and student-led tech communities.<br>
-⚡ Fun fact: I’ve led national and international hackathons and love merging tech with creativity!
+#### I'm a Developer, Designer & Explorer based in India
+- 🏢 I'm a tech enthusiast building with frontend, Python, and design-first thinking.
+- 🔭 Currently exploring advanced JS, AI integration & open-source.
+- 💻 Want to know more? Visit: https://ashishkumar.space *(replace with your link if needed)*
+- 🌍 I support Linux because it's powerful and open.
+- 📫 Reach me: [Twitter](https://twitter.com/imdigitalashish/) · [Instagram](https://instagram.com/imdigitalashish/) · [Facebook](https://facebook.com/imdigitalashish/) · Email: imdigitalashish@gmail.com
+- 💜 Subscribe on [YouTube](https://www.youtube.com/channel/UCRFntf3WYwAwcOFPN_SMuew)
+- 😄 Passionate about AI, AR, and Quantum Computing for real-world impact.
 
-## 📈 Custom Contribution Graph:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/contribution-graph.png" width="700" alt="Contribution Graph"/>
-</p>
+---
+
+## 📈 GitHub Activity Graph
+
+[![Aditya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-adityasingh&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/k_aditya_singh/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsadityasingh/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditysingh28012007@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh28012007@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -38,7 +41,7 @@
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
 
 <img 
@@ -57,9 +60,6 @@
 
   <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="300" alt="Dev Quote"/>
-
-  <!-- Mona GIF -->
-  <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona waving hello"/>
 
   <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=its-adityasingh&limit=1&theme=dark&combine_all_yearly_contributions=true" width="350" alt="Top Contributed Repo"/>
