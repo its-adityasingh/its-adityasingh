@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="60"/> 
-    👋 Hi, I'm Aditya Singh
+    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="60"/> 
+    👋 Hi, I'm Aditya Singh
 </h1>
 <h3 align="center">Developer • Designer • Explorer</h3>
 
@@ -31,6 +31,9 @@
   </a>
   <a href="mailto:adityasingh28012007@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.chess.com/member/its-adityasingh">
+    <img alt="Chess.com" src="https://img.shields.io/badge/Chess.com-4D7A94?style=for-the-badge&logo=chess.com&logoColor=white"/>
   </a>
 </p>
 
@@ -79,5 +82,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-
