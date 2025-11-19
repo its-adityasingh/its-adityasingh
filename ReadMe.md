@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="30"/> 
+    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="45"/> 
     👋 Hi, I'm Aditya Singh
 </h1>
 <h3 align="center">Developer • Designer • Explorer</h3>
@@ -79,3 +79,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
