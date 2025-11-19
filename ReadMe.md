@@ -1,67 +1,82 @@
-### Hi, I'm Aditya 👋
----
+<!-- Banner / Intro -->
+<h1 align="center">👋 Hi, I'm Aditya Singh</h1>
+<h3 align="center">Developer • Designer • Explorer</h3>
 
-#### I'm a Developer, Designer & Explorer based in India
-- 🏢 I'm a tech enthusiast building with frontend, Python, and design-first thinking.
-- 🔭 Currently exploring advanced JS, AI integration & open-source.
-- 💻 Want to know more? Visit: https://ashishkumar.space *(replace with your link if needed)*
-- 🌍 I support Linux because it's powerful and open.
-- 📫 Reach me: [Twitter](https://twitter.com/imdigitalashish/) · [Instagram](https://instagram.com/imdigitalashish/) · [Facebook](https://facebook.com/imdigitalashish/) · Email: imdigitalashish@gmail.com
-- 💜 Subscribe on [YouTube](https://www.youtube.com/channel/UCRFntf3WYwAwcOFPN_SMuew)
-- 😄 Passionate about AI, AR, and Quantum Computing for real-world impact.
+<p align="center">
+  🚀 Passionate about Frontend Development, UI/UX, AI & Automation  
+</p>
 
 ---
 
-## 📈 GitHub Activity Graph
-
-[![Aditya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-adityasingh&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🌎 About Me
+- 🎓 Engineering student from India
+- 💻 Building cool things using **JavaScript, Python & IoT**
+- 🎨 Aesthetic-first designer using Figma, Photoshop & creativity ✨
+- 🌱 Currently learning: **Advanced JS + AI agent integration**
+- 🤝 Looking to collaborate on **open-source & innovative tech**
+- 📩 Reach me: **adityasingh28012007@gmail.com**
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/k_aditya_singh/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsadityasingh/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh28012007@gmail.com) 
+## 🔗 Socials
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://www.instagram.com/k_aditya_singh/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/itsadityasingh/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adityasingh28012007@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+---
 
-<img 
-  src="https://streak-stats.demolab.com?user=its-adityasingh&theme=github-dark&hide_border=true&stroke=DDDDDD&ring=BA68C8&fire=AB47BC&currStreakNum=CE93D8&sideNums=E1BEE7&currStreakLabel=E1BEE7&sideLabels=CE93D8&dates=B39DDB&background=00000000" 
-  alt="GitHub Streak"
-/><br/>
+## 🛠 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,react,git,github,figma,mysql,gcp,ps,ai,linux" />
+</p>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+---
 
-## ✍️ Random Dev Quote & 🔝 Top Contributed Repo
+## 📊 GitHub Stats & Activity
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="300" alt="Dev Quote"/>
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
 
-  <!-- Top Contributed Repo -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=its-adityasingh&limit=1&theme=dark&combine_all_yearly_contributions=true" width="350" alt="Top Contributed Repo"/>
-
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=its-adityasingh&theme=radical&hide_border=false" height="180px"/>
+  
 </div>
+
+<div align="center">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=radical&layout=compact&langs_count=10" height="160px"/>
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-adityasingh&theme=react-dark&hide_border=true&area=true" />
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=onestar&no-frame=true&column=6"/>
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
