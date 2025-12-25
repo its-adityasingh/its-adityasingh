@@ -84,7 +84,9 @@
 </p>
 
 ## 📊 3D Contribution Graph
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
+![3D Graph](./profile-3d-contrib/profile-green-animate.svg)
+
+
 
 
 
