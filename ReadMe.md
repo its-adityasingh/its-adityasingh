@@ -20,22 +20,7 @@
 
 ---
 
-## 🔗 Socials
 
-<p align="left">
-  <a href="https://www.instagram.com/k_aditya_singh/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/itsadityasingh/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:adityasingh28012007@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.chess.com/member/its-adityasingh">
-    <img alt="Chess.com" src="https://img.shields.io/badge/Chess.com-4D7A94?style=for-the-badge&logo=chess.com&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -85,6 +70,7 @@
 
 ## 📊 3D Contribution Graph
 ![3D Graph](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 
