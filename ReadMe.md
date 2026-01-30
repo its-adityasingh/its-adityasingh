@@ -58,8 +58,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=onestar&no-frame=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=radical&no-frame=true&row=1&column=4" />
 </p>
+
 
 ---
 
@@ -70,6 +71,7 @@
 
 ## 📊 3D Contribution Graph
 ![3D Graph](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 
