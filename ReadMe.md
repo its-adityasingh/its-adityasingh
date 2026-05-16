@@ -1,11 +1,16 @@
 <h1 align="center">
-    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="60"/> 
-    👋 Hi, I'm Aditya Singh
+    <img src="mona-whisper.gif" alt="Mona Whisper Gif" width="60"/> 
+    👋 Hi, I'm Aditya Singh
 </h1>
+
 <h3 align="center">Developer • Designer • Explorer</h3>
 
 <p align="center">
-  🚀 Passionate about Frontend Development, UI/UX, AI & Automation  
+  🚀 Passionate about Frontend Development, UI/UX, AI & Automation
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=its-adityasingh&label=Profile%20views&color=0e75b6&style=flat" alt="its-adityasingh" /> 
 </p>
 
 ---
@@ -20,14 +25,10 @@
 
 ---
 
-
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,react,git,github,figma,mysql,gcp,ps,ai,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,react,git,github,figma,mysql,gcp,ps,ai,linux" />
 </p>
 
 ---
@@ -36,16 +37,16 @@
 
 <div align="center">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-adityasingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
 
-    <img src="https://streak-stats.demolab.com?user=its-adityasingh&theme=radical&hide_border=false" height="180px"/>
-  
+<img src="https://streak-stats.demolab.com?user=its-adityasingh&theme=radical&hide_border=false" height="180px"/>
+
 </div>
 
 <div align="center">
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=radical&layout=compact&langs_count=10" height="160px"/>
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-adityasingh&theme=radical&layout=compact&langs_count=10" height="160px"/>
+
 </div>
 
 ---
@@ -57,31 +58,55 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=onestar&no-frame=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=onestar&no-frame=true&column=6"/>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=flat&no-frame=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=flat&no-frame=true" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=radical" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-adityasingh&theme=radical" />
+</p>
 
 ---
 
 ## ✨ Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
+---
+
 ## 📊 3D Contribution Graph
+
 ![3D Graph](./profile-3d-contrib/profile-green-animate.svg)
 
+---
 
+## 🌐 Connect With Me
 
+<p align="center">
 
+<a href="https://github.com/its-adityasingh">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
 
+<a href="https://www.linkedin.com/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
 
+<a href="https://www.instagram.com/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
+</a>
 
+</p>
 
+---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
