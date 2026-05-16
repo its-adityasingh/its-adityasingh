@@ -87,21 +87,7 @@
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/its-adityasingh">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-</a>
-
-<a href="https://www.instagram.com/">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
-</a>
 
 </p>
 
