@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1434" height="738" viewBox="0 0 1434 738" font-family="'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" role="img" aria-label="its-adityasingh@github.com/its-adityasingh — git fetch profile card">
-<style>@keyframes blink{50%{opacity:0}}.cur{animation:blink 1.1s step-end infinite}@keyframes fin{from{opacity:0}to{opacity:1}}.fade{animation:fin .8s ease both}.tk{fill:#d2a8ff;font-weight:700}.sk{fill:#e3b341}.ar{fill:#56d4dd}.br{fill:#39929e}.vl{fill:#adbac7}text,tspan{white-space:pre}</style>
-<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f47067"/><stop offset="0.5" stop-color="#d2a8ff"/><stop offset="1" stop-color="#6cb6ff"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="1433" height="737" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="30" y="45.0" font-size="15"><tspan fill="#56d4dd" font-weight="700">~ </tspan><tspan fill="#57ab5a" font-weight="700">❯ </tspan><tspan fill="#e3b341">git</tspan><tspan fill="#adbac7"> fetch</tspan></text>
+<style>@keyframes blink{50%{opacity:0}}.cur{animation:blink 1.1s step-end infinite}@keyframes fin{from{opacity:0}to{opacity:1}}.fade{animation:fin .8s ease both}.tk{fill:#8250df;font-weight:700}.sk{fill:#9a6700}.ar{fill:#1b7c83}.br{fill:#1b7c83}.vl{fill:#24292f}text,tspan{white-space:pre}</style>
+<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cf222e"/><stop offset="0.5" stop-color="#8250df"/><stop offset="1" stop-color="#0969da"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="1433" height="737" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="30" y="45.0" font-size="15"><tspan fill="#1b7c83" font-weight="700">~ </tspan><tspan fill="#1a7f37" font-weight="700">❯ </tspan><tspan fill="#9a6700">git</tspan><tspan fill="#24292f"> fetch</tspan></text>
 <g class="fade" fill="url(#pg)" font-size="12">
 <text x="30" y="94.3">                                                     @@@@@@@@@@                                     </text>
 <text x="30" y="107.8">                                                 @@@@@@@@@@@@@@@@@                                  </text>
@@ -53,11 +53,11 @@
 <text x="30" y="710.7">-------------------------------------------------------------@@@   </text>
 </g>
 <g font-size="15">
-<text x="798" y="82.0" font-weight="700"><tspan fill="#f47067">its-adityasingh</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#6cb6ff">github.com/its-adityasingh</tspan></text>
-<rect class="cur" x="1181.0" y="70.0" width="8.2" height="14.0" fill="#f47067"/>
-<text x="798" y="105.0" fill="#444c56">────────────────────────────</text>
-<text x="798" y="131.6" font-size="13.5" fill="#adbac7">Software Developer,</text>
-<text x="798" y="150.6" font-size="13.5" fill="#adbac7">UI/UX, Open Source, and Building Impactful Products.</text>
+<text x="798" y="82.0" font-weight="700"><tspan fill="#cf222e">its-adityasingh</tspan><tspan fill="#57606a">@</tspan><tspan fill="#0969da">github.com/its-adityasingh</tspan></text>
+<rect class="cur" x="1181.0" y="70.0" width="8.2" height="14.0" fill="#cf222e"/>
+<text x="798" y="105.0" fill="#d8dee4">────────────────────────────</text>
+<text x="798" y="131.6" font-size="13.5" fill="#24292f">Software Developer,</text>
+<text x="798" y="150.6" font-size="13.5" fill="#24292f">UI/UX, Open Source, and Building Impactful Products.</text>
 <text x="798" y="185.1"><tspan class="tk">Host</tspan><tspan class="ar"> → </tspan><tspan class="vl">Junior UG</tspan></text>
 <text x="798" y="208.1"><tspan class="tk">OS</tspan><tspan class="ar"> → </tspan><tspan class="vl">Software Developer • UI/UX Designer • Hackathon Organizer</tspan></text>
 <text x="798" y="231.1"><tspan class="br"> ├ </tspan><tspan class="sk">Role</tspan><tspan class="ar"> → </tspan><tspan class="vl">Visual Engineering Intern</tspan></text>
